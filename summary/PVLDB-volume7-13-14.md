@@ -30,11 +30,11 @@
 ##本文贡献：
 以下是本文实现的图算法以及算法优化技术。
 <div align="center">
-  <img src="https://github.com/jackieshawn95/PVLDB-Graph/pics/13-14-1.png"><br><br>
+  <img src="https://github.com/jackieshawn95/PVLDB-Graph/blob/master/pics/13-14-1.png"><br><br>
 </div>  
 下表为使用的数据集：
 <div align="center">
-  <img src="https://github.com/jackieshawn95/PVLDB-Graph/pics/13-14-2.png"><br><br>
+  <img src="https://github.com/jackieshawn95/PVLDB-Graph/blob/master/pics/13-14-2.png"><br><br>
 </div> 
 
 ##启发：
