@@ -3,4 +3,4 @@
 - 论文总结只从方法，贡献，启示入手，不总结更加详细的设计细节。
 
 > [PVLDB-volume7-13-14](https://github.com/jackieshawn95/PVLDB-Graph/blob/master/summary/PVLDB-volume7-13-14.md)  
-> [PVLDB-volume7-14-15](https://github.com/jackieshawn95/PVLDB-Graph/blob/master/summary/PVLDB-volume7-14-15.md)
+> [PVLDB-volume7-14-15](https://github.com/jackieshawn95/PVLDB-Graph/blob/master/summary/PVLDB-volume8-14-15.md)
